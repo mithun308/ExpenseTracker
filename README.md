@@ -3,6 +3,8 @@
 ## Week 1 - Project Setup and Initial Exploration
 
 In the first week of development, we focused on establishing the core architecture and setting up the foundational components of the application. The following tasks were completed:
+Ref UI artitecture: https://developer.android.com/develop/ui/compose/architecture
+Ref App artitecture: https://developer.android.com/topic/architecture#recommended-app-arch
 
 ### 1. **Architecture Setup**
    - Defined the project's architectural structure to ensure scalability and maintainability. 
@@ -15,7 +17,8 @@ In the first week of development, we focused on establishing the core architectu
 ### 3. **Dependency Injection Setup**
    - Integrated Dependency Injection (DI) to manage the dependencies across the project.
    - Facilitated loose coupling, enhancing testability and maintainability of the application.
-
+   Ref DI: https://developer.android.com/training/dependency-injection?authuser=1
+   Ref Sevice Locator (Optional):https://en.wikipedia.org/wiki/Service_locator_pattern
 ### 4. **Navigation Setup**
    - Configured the app’s navigation system for smooth transitions between different screens and fragments.
    - Established a clear flow to ensure a consistent user experience.
