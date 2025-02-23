@@ -3,8 +3,9 @@
 ## Week 1 - Project Setup and Initial Exploration
 
 In the first week of development, we focused on establishing the core architecture and setting up the foundational components of the application. The following tasks were completed:
-Ref UI artitecture: https://developer.android.com/develop/ui/compose/architecture
-Ref App artitecture: https://developer.android.com/topic/architecture#recommended-app-arch
+
+- Ref UI architecture: [UI Architecture](https://developer.android.com/develop/ui/compose/architecture)
+- Ref App architecture: [App Architecture](https://developer.android.com/topic/architecture#recommended-app-arch)
 
 ### 1. **Architecture Setup**
    - Defined the project's architectural structure to ensure scalability and maintainability. 
@@ -17,11 +18,13 @@ Ref App artitecture: https://developer.android.com/topic/architecture#recommende
 ### 3. **Dependency Injection Setup**
    - Integrated Dependency Injection (DI) to manage the dependencies across the project.
    - Facilitated loose coupling, enhancing testability and maintainability of the application.
-   Ref DI: https://developer.android.com/training/dependency-injection?authuser=1
-   Ref Sevice Locator (Optional):https://en.wikipedia.org/wiki/Service_locator_pattern
+   - Ref DI: [Dependency Injection](https://developer.android.com/training/dependency-injection?authuser=1)
+   - Ref Service Locator (Optional): [Service Locator Pattern](https://en.wikipedia.org/wiki/Service_locator_pattern)
+
 ### 4. **Navigation Setup**
    - Configured the app’s navigation system for smooth transitions between different screens and fragments.
    - Established a clear flow to ensure a consistent user experience.
+   - Ref: [Jetpack Compose Navigation](https://developer.android.com/codelabs/jetpack-compose-navigation)
 
 ### 5. **Jetpack Compose UI Exploration**
    - Explored Jetpack Compose to build the user interface with a modern, declarative approach.
