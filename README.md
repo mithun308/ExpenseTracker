@@ -17,7 +17,8 @@ Ref App artitecture: https://developer.android.com/topic/architecture#recommende
 ### 3. **Dependency Injection Setup**
    - Integrated Dependency Injection (DI) to manage the dependencies across the project.
    - Facilitated loose coupling, enhancing testability and maintainability of the application.
-
+   Ref DI: https://developer.android.com/training/dependency-injection?authuser=1
+   Ref Sevice Locator (Optional):https://en.wikipedia.org/wiki/Service_locator_pattern
 ### 4. **Navigation Setup**
    - Configured the app’s navigation system for smooth transitions between different screens and fragments.
    - Established a clear flow to ensure a consistent user experience.
