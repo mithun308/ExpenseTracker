@@ -49,6 +49,16 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    // Added coil for loading images over network
+    implementation(libs.coil.compose)
+    implementation(libs.coil.network)
+    //Viewmodel
+    implementation(libs.viewmodel.compose)
+    //Viewmodel ktx library to work with coroutines
+    implementation(libs.viewmodel.ktx)
+    //Kotlin Coroutines
+    implementation(libs.kotlin.coroutines)
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
