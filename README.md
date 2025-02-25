@@ -29,3 +29,4 @@ In the first week of development, we focused on establishing the core architectu
 ### 5. **Jetpack Compose UI Exploration**
    - Explored Jetpack Compose to build the user interface with a modern, declarative approach.
    - Experimented with layouts, components, and UI elements to prepare for future feature development.
+   - Ref : [Jetpack Compose UI Docs](http://developer.android.com/develop/ui/compose/documentation?_gl=1*1fsbu30*_up*MQ..&gclid=EAIaIQobChMIp9Xi-8beiwMV2Ub_AR09BCH4EAAYASAAEgJcN_D_BwE&gclsrc=aw.ds)
