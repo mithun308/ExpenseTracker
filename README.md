@@ -1,6 +1,6 @@
 # Expense Tracker
 
-## Week 1 - Project Setup and Initial Exploration
+## Project Setup and Initial Exploration
 
 In the first week of development, we focused on establishing the core architecture and setting up the foundational components of the application. The following tasks were completed:
 
